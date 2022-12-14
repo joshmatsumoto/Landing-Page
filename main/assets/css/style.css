@@ -1,0 +1,42 @@
+body {
+    position: relative;
+    margin: 0;
+    padding: 0;
+  }
+  
+nav {
+    height: 40px;
+    width: 100%;
+    border-bottom: 10px solid pink;
+    background-color: lightblue;
+}
+
+nav ul {
+    display: inline;
+    float:right
+}
+nav li {
+    display: inline;
+    margin: 15px
+}
+header {
+    text-align: center
+}
+img {
+    margin: 0 auto
+}
+figcaption {
+    text-align: center;
+}
+footer {
+    height: 40px;
+    width: 100%;
+    border-bottom: 10px solid blue;
+    background-color: lightblue;
+    text-align: center;
+}
+#contact-info {
+    height: 300px;
+    width: 100%;
+    background-color: pink;
+}
